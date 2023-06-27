@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+I'm Nandhinikumar. I'm a computer science who is passionate about working with open-source and Full Stack Web Development. Some technologies i enjoy working with include React Js, C, Java,MySql.
+<!-- 
 **nandhinikumar16/nandhinikumar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
